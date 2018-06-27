@@ -1,0 +1,9 @@
+c:\users\bisp\documents\visual studio 2012\Projects\SoapApiTestApp\SoapApiTestApp\bin\Debug\SoapApiTestApp.exe.config
+c:\users\bisp\documents\visual studio 2012\Projects\SoapApiTestApp\SoapApiTestApp\bin\Debug\SoapApiTestApp.exe
+c:\users\bisp\documents\visual studio 2012\Projects\SoapApiTestApp\SoapApiTestApp\bin\Debug\SoapApiTestApp.pdb
+c:\users\bisp\documents\visual studio 2012\Projects\SoapApiTestApp\SoapApiTestApp\obj\Debug\SoapApiTestApp.csprojResolveAssemblyReference.cache
+c:\users\bisp\documents\visual studio 2012\Projects\SoapApiTestApp\SoapApiTestApp\obj\Debug\SoapApiTestApp.Form1.resources
+c:\users\bisp\documents\visual studio 2012\Projects\SoapApiTestApp\SoapApiTestApp\obj\Debug\SoapApiTestApp.Properties.Resources.resources
+c:\users\bisp\documents\visual studio 2012\Projects\SoapApiTestApp\SoapApiTestApp\obj\Debug\SoapApiTestApp.csproj.GenerateResource.Cache
+c:\users\bisp\documents\visual studio 2012\Projects\SoapApiTestApp\SoapApiTestApp\obj\Debug\SoapApiTestApp.exe
+c:\users\bisp\documents\visual studio 2012\Projects\SoapApiTestApp\SoapApiTestApp\obj\Debug\SoapApiTestApp.pdb
